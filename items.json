@@ -1,0 +1,951 @@
+[
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "Mỗi hàng = 1 thành phần (quần, váy, khăn, nón, giày, trang sức, kiểu tóc…) của 1 trang phục. Chỉ tiêu: ≥ 5 dòng / trang phục. Hàng xám là ví dụ định dạng."
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "Mã PK"
+    },
+    "field2": "Mã TP",
+    "field3": "Trang phục (tự điền)",
+    "field4": "Tên thành phần / phụ kiện",
+    "field5": "Tên gọi khác",
+    "field6": "Loại",
+    "field7": "Mức cần thiết",
+    "field8": "Giới tính",
+    "field9": "Chất liệu",
+    "field10": "Màu thường gặp",
+    "field11": "Cách mặc / đeo",
+    "field12": "Ý nghĩa văn hóa",
+    "field13": "Dịp dùng",
+    "field14": "Mức Remix cho phép",
+    "field15": "Có thể thay bằng (đồ hiện đại)",
+    "field16": "Dễ nhầm với / lưu ý",
+    "field17": "Mã nguồn",
+    "field18": "Độ tin cậy",
+    "field19": "Người điền"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "VÍ DỤ"
+    },
+    "field2": "VD – VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Nón quai thao",
+    "field5": "Nón ba tầm",
+    "field6": "Phụ kiện đầu",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "(ghi theo nguồn)",
+    "field10": "(ghi theo nguồn)",
+    "field11": "Đội đầu, quai buông hai bên",
+    "field12": "Gắn với hình ảnh liền chị quan họ Kinh Bắc (cần trích nguồn)",
+    "field13": "Lễ hội, hát quan họ, chụp ảnh",
+    "field14": "Mọi mức",
+    "field15": "—",
+    "field16": "Không nhầm với nón lá thường",
+    "field17": "SRC0x",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "Tên bạn"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK01"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Khăn vấn (khăn đóng)",
+    "field5": "Khăn xếp",
+    "field6": "Phụ kiện đầu",
+    "field7": "Bắt buộc",
+    "field8": "Cả nam và nữ",
+    "field9": "Vải nhiễu, sa sâm",
+    "field10": "Đen, xanh lam, tím",
+    "field11": "Quấn chặt quanh đầu, tạo hình nếp gấp chữ \"Nhân\" (人) ở phía trước trán.",
+    "field12": "Thể hiện sự tề chỉnh, nét nho nhã và đạo lý làm người (chữ Nhân) của người Việt xưa.",
+    "field13": "Lễ, tết, cưới hỏi, sự kiện văn hóa",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Không đội, để tóc trần tự nhiên (ở mức Cách tân)",
+    "field16": "Dễ nhầm với mấn đội đầu cốt cứng chắp sẵn bán sẵn hiện nay (khăn vấn chuẩn phải quấn bằng tay).",
+    "field17": "https://web.facebook.com/khanghoang.quoctuythuahoa/videos/1302740261133830/",
+    "field18": "C – Blog / MXH / tiệm",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK02"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Áo lót trắng",
+    "field5": "Đơn y, áo lập lĩnh lót",
+    "field6": "Áo trong / lót",
+    "field7": "Bắt buộc",
+    "field8": "Cả nam và nữ",
+    "field9": "Vải lụa, cotton, phin",
+    "field10": "Trắng",
+    "field11": "Mặc ôm sát người bên trong, gài kín khuy cổ trước khi mặc áo ngũ thân ra ngoài.",
+    "field12": "Tạo sự kín đáo, thấm hút mồ hôi và giúp tôn lên viền cổ áo (lập lĩnh) của lớp áo bên ngoài.",
+    "field13": "Mọi dịp",
+    "field14": "Mọi mức",
+    "field15": "Áo thun cổ lọ mỏng, áo sơ mi (ở mức Remix)",
+    "field16": "Lưu ý không để lộ mép tay áo lót dài thò ra ngoài tay áo chính.",
+    "field17": "https://routine.vn/tin-thoi-trang/ao-ngu-than-la-gi",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK03"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Quần lụa ống rộng",
+    "field5": "Quần thụng",
+    "field6": "Phần dưới (quần, váy)",
+    "field7": "Khuyến nghị",
+    "field8": "Cả nam và nữ",
+    "field9": "Lụa tơ tằm, đũi",
+    "field10": "Trắng, đen",
+    "field11": "Mặc bình thường, cạp quần buộc dây vải hoặc luồn chun, cạp cao, đũng thấp.",
+    "field12": "Phù hợp với nếp sống Á Đông, che kín chân, tạo dáng vẻ trang nghiêm khi di chuyển.",
+    "field13": "Mọi dịp",
+    "field14": "Mọi mức",
+    "field15": "Quần âu, quần kaki ống suông (ở mức Cách tân)",
+    "field16": "Lưu ý quần đũng thấp cổ truyền khác với dáng quần âu bó sát hiện đại.",
+    "field17": "https://cardina.vn/blogs/kien-thuc-thoi-trang/ao-ngu-than",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK04"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Áo ngũ thân tay chẽn lót",
+    "field5": "Áo lót",
+    "field6": "Áo trong / lót",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Lụa, sa mỏng",
+    "field10": "Trắng, các màu trơn nhã nhặn",
+    "field11": "Mặc lót bên trong, cài khuy kín cổ trước khi khoác Nhật Bình ra ngoài.",
+    "field12": "Giữ sự kín đáo và đoan trang tuyệt đối, do Nhật Bình là dạng áo khoác ngoài đối khâm hở vạt ngực.",
+    "field13": "Cưới hỏi, lễ hội, nghệ thuật",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Áo yếm, áo hai dây (chỉ áp dụng ở mức Remix tự do)",
+    "field16": "Tuyệt đối không mặc Nhật Bình trực tiếp lên người mà không có lớp áo lót bên trong ở mức Chuẩn.",
+    "field17": "https://cardina.vn/blogs/kien-thuc-thoi-trang/ao-nhat-binh-la-gi?srsltid=AU7gw4V5OBzfXq5a-8jb9ss2xGiABgOF0bTRzCRgPvjlbBzgj_27hyK0",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK05"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Khăn vành dây",
+    "field5": "Khăn vành",
+    "field6": "Phụ kiện đầu",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Vải nhiễu, lụa",
+    "field10": "Xanh lam, vàng",
+    "field11": "Quấn nhiều vòng to bản quanh đầu, bao trọn lấy búi tóc phía sau.",
+    "field12": "Phân biệt rõ đẳng cấp thân phận cung đình, độ lớn và màu sắc của khăn quy định theo phẩm trật.",
+    "field13": "Lễ lớn, cưới hỏi",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Mấn cô dâu hiện đại (ở mức Cách tân)",
+    "field16": "Rất dễ nhầm với mấn rỗng cốt cứng của cô dâu hiện đại; khăn vành chuẩn quấn rất đặc và to bản.",
+    "field17": "https://baotanglichsu.vn/vi/Articles/3101/19023/kim-bai-kim-khanh-ngoc-khanh-thoi-nguyen.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK06"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Xiêm y",
+    "field5": "Quần thụng, váy quây",
+    "field6": "Phần dưới (quần, váy)",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Lụa, gấm",
+    "field10": "Trắng (quần), đỏ, lục (xiêm)",
+    "field11": "Xiêm y dạng váy quây xếp ly mặc chùm bên ngoài quần, che kín gót chân.",
+    "field12": "Tạo dáng vẻ thướt tha, bệ vệ và quyền quý cho phái nữ trong chốn hoàng cung.",
+    "field13": "Cưới hỏi, nghệ thuật",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Chân váy dập ly dài (ở mức Cách tân/Remix)",
+    "field16": "Lưu ý không mặc các loại quần/váy quá ngắn làm mất đi tính trang trọng của lễ phục.",
+    "field17": "https://baotanglichsu.vn/vi/Articles/3101/19023/kim-bai-kim-khanh-ngoc-khanh-thoi-nguyen.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK07"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Guốc mộc",
+    "field5": "Guốc gỗ",
+    "field6": "Giày dép",
+    "field7": "Khuyến nghị",
+    "field8": "Cả nam và nữ",
+    "field9": "Gỗ mít, gỗ xoan, quai da/vải",
+    "field10": "Màu vân gỗ tự nhiên, nâu",
+    "field11": "Xỏ ngón hoặc luồn quai ngang ngang mu bàn chân.",
+    "field12": "Phù hợp với đặc thù khí hậu nhiệt đới, gắn liền với hình ảnh mộc mạc của người Việt xưa.",
+    "field13": "Đi lại hằng ngày, chụp ảnh phong cảnh cổ",
+    "field14": "Mọi mức",
+    "field15": "Sandal quai hậu, giày loafer (ở mức Cách tân)",
+    "field16": "Tránh đi cùng tất (vớ) trắng kiểu Nhật Bản (Tabi) gây nhầm lẫn văn hóa.",
+    "field17": "https://cand.vn/con-sot-co-phuc-trong-gioi-tre-hoi-sinh-co-phuc-post605255.html",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK08"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Quạt xếp",
+    "field5": "Quạt giấy, quạt mộc",
+    "field6": "Phụ kiện cầm tay",
+    "field7": "Tùy chọn",
+    "field8": "Nam",
+    "field9": "Nang tre, giấy dó hoặc lụa",
+    "field10": "Trắng mộc, hoặc vẽ thủy mặc",
+    "field11": "Cầm tay phẩy nhẹ hoặc giắt ở thắt lưng/dải lưng.",
+    "field12": "Thể hiện phong thái ung dung, Nho nhã, phong lưu của nam giới thời xưa.",
+    "field13": "Lễ hội, hội họp, dạo phố",
+    "field14": "Mọi mức",
+    "field15": "Không có",
+    "field16": "Cần tránh các loại quạt xếp in họa tiết hoạt hình, anime hoặc chữ Hán hiện đại.",
+    "field17": "https://vietphuc.net/mot-so-luu-y-khi-thue-do-nhat-binh-ao-tac-ao-ngu-than-tay-chen-tai-vstyle-viet-co-phuc-cach-tan",
+    "field18": "C – Blog / MXH / tiệm",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK09"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Kiềng cổ",
+    "field5": "Vòng cổ trơn",
+    "field6": "Trang sức",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Vàng, bạc, đồng",
+    "field10": "Vàng sáng, trắng bạc",
+    "field11": "Đeo ôm sát chân cổ, ngay dưới phần cổ áo lập lĩnh (cổ đứng).",
+    "field12": "Biểu tượng cho sự no đủ, quyền quý và nét duyên dáng, e ấp của phụ nữ Việt.",
+    "field13": "Lễ Tết, ăn hỏi, cưới xin",
+    "field14": "Mọi mức",
+    "field15": "Dây chuyền trơn bản nhỏ",
+    "field16": "Tránh đeo kiềng quá to bản làm cộm và hỏng phom dáng của cổ áo đứng.",
+    "field17": "https://cand.vn/con-sot-co-phuc-trong-gioi-tre-hoi-sinh-co-phuc-post605255.html",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK10"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Thẻ bài / Kim khánh",
+    "field5": "Khung bài",
+    "field6": "Trang sức",
+    "field7": "Tùy chọn",
+    "field8": "Nam",
+    "field9": "Ngà voi, vàng, bạc, gỗ quý",
+    "field10": "Trắng ngà, vàng",
+    "field11": "Đeo lủng lẳng ở hàng khuy áo trước ngực hoặc giắt ở dải lưng.",
+    "field12": "Thể hiện chức tước, địa vị xã hội hoặc là vật phẩm vua ban thời phong kiến.",
+    "field13": "Chụp ảnh cổ phục, sự kiện văn hóa",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Không nên thay thế",
+    "field16": "Chỉ nên đeo khi mặc đồ phục dựng quan lại, dân thường xưa không được dùng.",
+    "field17": "https://baotanglichsu.vn/vi/Articles/3101/19023/kim-bai-kim-khanh-ngoc-khanh-thoi-nguyen.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK11"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Hài thêu mũi vát",
+    "field5": "Hài xảo cung đình",
+    "field6": "Giày dép",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Cốt xốp/gỗ nhẹ, bọc vải lụa, gấm thêu",
+    "field10": "Đỏ, xanh, vàng (đồng bộ với áo)",
+    "field11": "Xỏ chân gót bệt, phần mũi hài vát xếch cong lên phía trước.",
+    "field12": "Che kín ngón chân khi đi lại, mang đậm nét vương giả thẩm mỹ chốn hoàng cung.",
+    "field13": "Lễ đại triều, cưới hỏi, nghệ thuật",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Giày búp bê bít mũi, giày cao gót đế xuồng",
+    "field16": "Tuyệt đối không đi giày hở mũi, sandal dế trệt hoặc giày thể thao khi mặc Nhật Bình.",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK12"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Ngọc bội / Kim bội",
+    "field5": "Ngọc khánh",
+    "field6": "Trang sức",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Ngọc cẩm thạch, vàng, kết tua rua lụa",
+    "field10": "Xanh ngọc bích, vàng, đỏ",
+    "field11": "Treo vào dải khuy áo lót bên trong, thả buông lơi trước ngực, lấp ló sau vạt áo khoác.",
+    "field12": "Mang ý nghĩa cát tường, trừ tà và tôn lên vẻ đẹp đài các, phú quý của bậc hậu phi.",
+    "field13": "Lễ hội, chụp ảnh nghệ thuật",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Dây chuyền mặt đá thanh lịch (mức Remix)",
+    "field16": "Không treo quá nhiều dây rườm rà làm rối mắt ở phần cổ xẻ đối khâm.",
+    "field17": "https://baotanglichsu.vn/vi/Articles/3101/19075/nhung-trang-suc-cua-quyen-uy-va-an-thuong.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK13"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Quạt tròn",
+    "field5": "Quạt phiến, đoàn phiến",
+    "field6": "Phụ kiện cầm tay",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Khung tre/gỗ, bọc lụa thêu",
+    "field10": "Trắng ngà, hồng nhạt, thêu hoa",
+    "field11": "Cầm tay che nhẹ ngang ngực hoặc dùng để che nửa mặt khi e thẹn.",
+    "field12": "Tôn lên vẻ đẹp uyển chuyển, nhu mì nhưng đầy quyền lực của bậc nữ lưu chốn cung cấm.",
+    "field13": "Chụp ảnh studio, trình diễn",
+    "field14": "Mọi mức",
+    "field15": "Không có",
+    "field16": "Dễ nhầm với quạt tròn của mỹ nữ Trung Hoa nếu thêu họa tiết không thuần Việt; tránh dùng quạt lông vũ.",
+    "field17": "https://moctrulyhue.com/blogs/news/phoi-quat-tay-voi-co-phuc-bi-quyet-len-hinh-dep-chuan-hoai-co",
+    "field18": "C – Blog / MXH / tiệm",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK14"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Trâm cài đầu",
+    "field5": "Kim thoa, trâm ngọc",
+    "field6": "Trang sức",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Vàng, bạc, ngọc, ngà",
+    "field10": "Vàng kim, trắng ngà",
+    "field11": "Cắm xuyên ngang qua búi tóc hoặc gài cố định trên lớp khăn vành dây quấn trên đầu.",
+    "field12": "Giữ nếp tóc gọn gàng, đồng thời là món nữ trang khẳng định địa vị vương giả.",
+    "field13": "Cưới hỏi, lễ tết, sự kiện lớn",
+    "field14": "Mọi mức",
+    "field15": "Kẹp tóc kim loại thiết kế tối giản (mức Cách tân)",
+    "field16": "Cần cắm trâm đúng chiều, tránh gắn các loại kẹp tóc nhựa màu mè sặc sỡ.",
+    "field17": "https://khamphahue.com.vn/desktopmodules/DNNTinBai/PrintTinBai.aspx?newsid=CBA08C72-716C-4572-B456-AE4D008AE7BF",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK15"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nón quai thao",
+    "field5": "Nón ba tầm",
+    "field6": "Phụ kiện đầu",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Lá cọ, gân lá, thao lụa",
+    "field10": "Trắng ngà, quai thao nhiều màu",
+    "field11": "Đội trên đầu, quai thao buông dài sang hai bên vai hoặc cầm tay.",
+    "field12": "Tôn lên nét duyên dáng, e ấp của người phụ nữ Bắc Bộ xưa.",
+    "field13": "Lễ hội, hát quan họ, chụp ảnh",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Nón lá thường (ít trang trọng hơn)",
+    "field16": "Không nhầm với nón lá chóp nhọn thông thường",
+    "field17": "https://thanhnien.vn/phim-viet-dau-tu-lon-cho-co-phuc-185250410210036034.htm",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK16"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Túi gấm rút dây",
+    "field5": "Ruột tượng (bản nhỏ)",
+    "field6": "Phụ kiện cầm tay",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Gấm, lụa",
+    "field10": "Đỏ, xanh thẫm, thêu hoa",
+    "field11": "Cầm tay hoặc luồn giắt hờ ở dải lưng.",
+    "field12": "Dùng để đựng trầu cau, tiền xu; thể hiện sự nữ tính, tinh tế.",
+    "field13": "Lễ tết, hội hè",
+    "field14": "Mọi mức",
+    "field15": "Túi cói, túi mây đan",
+    "field16": "Tránh dùng các loại ví da cầm tay đính đá kiểu Âu phục.",
+    "field17": "https://hoanghiemvietphuc.com/san-pham/ao-ngu-than-nu-hong-sen-theu-noi-phuong-hoang-chat-lieu-cao-cap/",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK17"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Giày thể thao hầm hố (Chunky/Sneaker)",
+    "field6": "Giày dép",
+    "field7": "Không nên",
+    "field8": "Cả nam và nữ",
+    "field9": "Vải canvas, cao su",
+    "field10": "Nhiều màu sặc sỡ",
+    "field11": "Đi chùm kín chân.",
+    "field12": "Phá vỡ hoàn toàn vẻ đẹp khoan thai, trang nghiêm của tà áo cổ phục, tạo sự kệch cỡm.",
+    "field14": "Remix tự do",
+    "field15": "Hài xảo, guốc mộc (nếu về Chuẩn)",
+    "field16": "Ở mức Chuẩn, tuyệt đối không phối cùng giày sneaker dáng thô to.",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK18"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Tóc xõa / Nhuộm màu chói (Neon)",
+    "field6": "Kiểu tóc / trang điểm",
+    "field7": "Không nên",
+    "field8": "Cả nam và nữ",
+    "field11": "Buông xõa tóc rối bời, không chải nếp.",
+    "field12": "Người xưa quan niệm tóc rũ rượi, xõa xượi là biểu hiện của tang tóc hoặc người không đứng đắn, làm mất tính đoan trang.",
+    "field14": "Remix tự do",
+    "field15": "Tóc búi gọn rẽ ngôi giữa (tóc ngôi mây)",
+    "field16": "Luôn ưu tiên búi tóc gọn gàng sau gáy hoặc vấn khăn chữ Nhân.",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK19"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Dải đai buộc ức",
+    "field5": "Dây đai ngũ sắc",
+    "field6": "Thắt lưng / dây",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Vải lụa mềm",
+    "field10": "Đỏ, vàng, xanh (cùng màu áo)",
+    "field11": "Buộc thắt nút hoặc thả buông lơi ngay dưới ức ngực, cố định hai vạt áo đối khâm.",
+    "field12": "Là thành phần thiết yếu để giữ phom áo Nhật Bình, đồng thời tạo điểm nhấn thướt tha.",
+    "field13": "Lễ triều, cưới hỏi",
+    "field14": "Mọi mức",
+    "field15": "Không thể thay thế",
+    "field16": "Dễ bị quên khi may phục dựng, dẫn đến vạt áo bị xô lệch khi di chuyển.",
+    "field17": "https://vanhoanghethuat.vn/hoa-van-trang-tri-tren-ao-nhat-binh-cua-doan-huy-hoang-thai-hau-trieu-nguyen-1802-1945-77758106.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK20"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lối trang điểm môi \"cắn chỉ\"",
+    "field5": "Đánh phấn nụ",
+    "field6": "Kiểu tóc / trang điểm",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Son đỏ, phấn trắng",
+    "field10": "Phấn trắng, son đỏ",
+    "field11": "Đánh lớp nền da trắng mịn (phấn nụ), tô son đỏ chúm chím chính giữa lòng môi.",
+    "field12": "Phục dựng lại chính xác vẻ đẹp đài các, vương giả của quý tộc cung đình triều Nguyễn.",
+    "field13": "Chụp ảnh phục dựng, lễ đại triều",
+    "field14": "Mọi mức",
+    "field15": "Trang điểm nhẹ nhàng tông cam đất/hồng tự nhiên",
+    "field16": "Cần tránh lối makeup kẻ mắt mèo quá đậm, mắt khói kiểu phương Tây.",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK21"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Mũ Phượng (Phượng quan)",
+    "field5": "Mũ đại triều",
+    "field6": "Phụ kiện đầu",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Vàng, bạc, đính đá, ngọc trân châu",
+    "field10": "Vàng kim rực rỡ",
+    "field11": "Đội ngay ngắn trên đầu, ôm sát búi tóc trần.",
+    "field12": "Thể hiện quyền lực tối cao nhất của nữ giới chốn hậu cung (Hoàng Hậu, Thái Hậu, Trưởng Công chúa).",
+    "field13": "Dịp đại lễ của vương triều",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Khăn vành dây quấn to bản (cho bậc thấp hơn)",
+    "field16": "Tuyệt đối không đội bừa bãi nếu hóa thân thành giai tầng cung phi, cung tần thấp.",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK22"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Đồng hồ kim loại / Smartwatch",
+    "field6": "Trang sức",
+    "field7": "Không nên",
+    "field8": "Nữ",
+    "field9": "Kim loại, nhựa, màn hình điện tử",
+    "field10": "Bạc, đen",
+    "field11": "Đeo trên cổ tay.",
+    "field12": "Tay áo Nhật Bình rất rộng (tay thụng), vung tay sẽ để lộ phụ kiện công nghệ, làm mất đi tính lịch sử và vương giả của lễ phục.",
+    "field14": "Remix tự do",
+    "field15": "Lắc tay ngọc bích mỏng mảnh (có thể che giấu dưới tay áo)",
+    "field16": "Khi mặc chụp ảnh nghệ thuật hoặc cưới hỏi truyền thống, nên tháo đồng hồ.",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV1"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK23"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Yếm",
+    "field5": "Áo yếm, yếm đào (nếu màu đỏ/hồng).",
+    "field6": "Áo trong / lót",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Lụa, đũi, tơ, hoặc vải sồi thô mộc.",
+    "field10": "Đỏ đào, hồng (dành cho thiếu nữ); trắng, nâu, thâm đen (dành cho phụ nữ lớn tuổi, có chồng).",
+    "field11": "Miếng vải vuông/thoi khoét cổ tròn hoặc chữ V, có hai dây nhỏ buộc sau gáy và hai dây to buộc thắt sau lưng, để hở trọn vẹn lưng trần.",
+    "field12": "Biểu tượng của sự nữ tính, gợi cảm nhưng vẫn e ấp. Yếm đào thường là nguồn cảm hứng bất tận trong thi ca, tượng trưng cho thanh xuân và tình yêu.",
+    "field13": "Mặc lót hằng ngày hoặc đi hội.",
+    "field14": "Mọi mức",
+    "field15": "Áo ống (tube top), corset, bra top, áo quây.",
+    "field16": "Dễ nhầm với \"Đỗ đâu\" (Dudou) của Trung Quốc. Đỗ đâu thường hình chữ nhật che kín bụng hơn, họa tiết thêu lớn và đậm chất Hán, trong khi Yếm Việt khoét sâu cổ và phom ôm thanh thoát hơn.",
+    "field17": "https://baotangphunu.org.vn",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV2"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK24"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Váy đụp",
+    "field5": "Váy thâm, quần thâm (tùy địa phương gọi nôm na).",
+    "field6": "Phần dưới (quần, váy)",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Vải thô, sồi, đũi sần, hoặc lụa (với người khá giả).",
+    "field10": "Đen, nâu bùn (nhuộm kỹ để tránh bẩn khi làm nông).",
+    "field11": "Là dạng váy ống suông dài đến mắt cá, không chun cạp, không xếp ly. Xỏ từ dưới lên, cuộn phần cạp váy thừa ở eo rồi dùng dây rút hoặc dải vải buộc thắt chặt lại.",
+    "field12": "Đại diện cho sự lam lũ, tần tảo, chịu thương chịu khó của phụ nữ nông thôn Bắc Bộ xưa, cũng như quy định của chế độ phong kiến cấm phụ nữ bình dân mặc quần ống.",
+    "field13": "Sinh hoạt hàng ngày, hội hè.",
+    "field14": "Remix tự do",
+    "field15": "Chân váy maxi suông dài màu đen, quần ống rộng, váy midi.",
+    "field16": "90% người hiện đại nhầm rằng tứ thân phải mặc với quần lụa đen ống rộng. Quần ống rộng là của áo bà ba hoặc áo ngũ thân thời sau, không phải nguyên bản của tứ thân.",
+    "field17": "https://phunuvietnam.vn/chiec-ao-tu-than-co-tu-bao-gio-30956.htm",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK25"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Áo cánh",
+    "field5": "Áo ngắn lót",
+    "field6": "Áo trong / lót",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Tơ tằm mỏng, vải phin, voan.",
+    "field10": "Sáng màu: Trắng, vàng mỡ gà, hồng nhạt.",
+    "field11": "Khoác ngay bên ngoài yếm, bên trong áo tứ thân. Cổ vát chữ V, thường buông hờ không cài cúc ngực để khoe chiếc yếm lấp ló bên trong.",
+    "field12": "Tạo nên tầng lớp màu sắc thị giác, phô diễn sự tinh tế và giàu có của người mặc khi phối màu.",
+    "field13": "Lễ hội, đình đám (ngày làm nông nóng nực có thể bỏ qua).",
+    "field14": "Cách tân",
+    "field15": "Sơ mi voan mỏng buông cúc, áo cardigan mỏng, áo voan xuyên thấu.",
+    "field16": "Dễ nhầm với áo bà ba. Áo cánh mỏng ngắn tay cổ V sâu không cài khuy trên, khác với áo bà ba cài khuy kín cổ bâu tròn.",
+    "field17": "https://baotanglichsu.vn/vi/Articles/2001/66839/net-djep-van-hoa-trong-ta-ao-dai-cua-phu-nu-viet.html",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK26"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Dải thắt lưng",
+    "field5": "Ruột tượng bao, dây thắt eo.",
+    "field6": "Thắt lưng / dây",
+    "field7": "Bắt buộc",
+    "field8": "Nữ",
+    "field9": "Lụa, đũi, the.",
+    "field10": "Màu sặc sỡ để làm điểm nhấn: Mỡ gà, xanh hồ thủy, hồng cánh sen.",
+    "field11": "Quấn ngang vòng eo (chỗ cạp váy), buộc vắt nút ở giữa bụng và thả buông lơi 2 tà lụa xuống phía trước hoặc lệch sang bên hông.",
+    "field12": "Điểm nhấn chia tỷ lệ cơ thể giúp phụ nữ thon thả hơn. \"Ruột tượng\" (dải lụa được may thành ống rỗng) thời xưa còn dùng để giấu tiền, tư trang như một chiếc ví bí mật.",
+    "field13": "Mọi lúc mặc tứ thân.",
+    "field14": "Mọi mức",
+    "field15": "Thắt lưng bản to, dải ruy băng lụa lớn, đai nịt bụng.",
+    "field16": "Dễ nhầm với đai Obi của Kimono (Nhật Bản). Obi to, cứng, bọc như một khối trụ, trong khi dải thắt lưng Việt mềm rủ lơi lả.",
+    "field17": "https://routine.vn/tin-thoi-trang/ao-tu-than-duyen-dang",
+    "field18": "C – Blog / MXH / tiệm",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK27"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Khăn mỏ quạ",
+    "field5": "Khăn đen chít đầu.",
+    "field6": "Phụ kiện đầu",
+    "field7": "Khuyến nghị",
+    "field8": "Nữ",
+    "field9": "Lụa, nhung, sồi sẫm.",
+    "field10": "Đen mượt.",
+    "field11": "Khăn vuông gập chéo lại, trùm lên đầu (đã vấn tóc vòng tròn bên trong). Chỉnh góc nhọn của khăn (mỏ quạ) nằm ngay chính giữa trán, kéo 2 mép khăn vuốt ôm sát má, vắt chéo dưới cằm và buộc thắt lại đằng sau gáy.",
+    "field12": "Làm tôn lên khuôn mặt trái xoan (chuẩn mực nét đẹp xưa), che nắng bảo vệ nhan sắc, thể hiện sự chỉn chu, đoan trang.",
+    "field13": "Hàng ngày (làm đồng) và lễ hội.",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Khăn lụa vuông bản to, bandana quấn trùm đầu (dù phom dáng không chóp nhọn bằng).",
+    "field16": "Dễ nhầm với cách quấn khăn của Babushka (Nga) hoặc Turban. Chú ý: Bắt buộc phải có \"góc nhọn\" rủ xuống ngay chính giữa trán mới là mỏ quạ.",
+    "field17": "http://dsvh.gov.vn/",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK28"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Nón quai thao",
+    "field5": "Nón ba tầm (Loại ba tầm có thể không có vành lụa thao, nhưng thường được gọi chung)",
+    "field6": "Phụ kiện đầu",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Lá cọ, lá gồi, sợi móc. Quai nón làm bằng lụa sồi tết lại.",
+    "field10": "Vàng nhạt mộc mạc của lá. Quai thao bằng lụa nhuộm màu tía, xanh, đỏ.",
+    "field11": "Không có chóp nhọn ôm đầu, nón phẳng lì. Bên trong có cái \"khua\" (vòng tròn đan tre) ôm vào đầu. Thường đội che nắng hoặc cầm trên tay làm duyên che nửa mặt.",
+    "field12": "Biểu tượng nghệ thuật đỉnh cao của Quan họ Bắc Ninh. Hành động cầm nón che mặt mỉm cười e thẹn tạo nên sức quyến rũ đặc biệt của liền chị.",
+    "field13": "Hội làng, hát giao duyên, chụp ảnh. Không dùng để lội ruộng đi cày hằng ngày (vì cồng kềnh).",
+    "field14": "Cách tân",
+    "field15": "Không có phụ kiện đội đầu hiện đại nào thay thế được \"thần thái\" này. Cầm ô/dù ren có thể là một phương án thay thế nhẹ nhàng.",
+    "field16": "Dễ nhầm với nón lá chóp nhọn thông thường. (Nón lá chóp nhọn dùng để lao động, nón quai thao mặt rộng phẳng lì, to như chiếc mâm).",
+    "field17": "https://svhttdl.bacninh.gov.vn/",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK29"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Xà tích",
+    "field5": "Dây xà tích bạc.",
+    "field6": "Trang sức",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Bạc trắng.",
+    "field10": "Bạc sáng hoặc xỉn nhẹ (màu bạc cổ).",
+    "field11": "Là một chuỗi dây xích bằng bạc, một đầu móc vào dải thắt lưng/ruột tượng ngang hông, đầu kia thả rủ xuống bên sườn váy đụp. Trên dây treo thêm ống vôi bạc nhỏ, dao têm trầu thu nhỏ, quả đào bạc.",
+    "field12": "Tiếng kêu \"leng keng\" theo mỗi bước đi tạo sự vui tai, thu hút. Đây là món đồ khoe của ngầm của các cô gái con nhà khá giả chốn hội hè, đồng thời phục vụ thói quen ăn trầu của người xưa.",
+    "field13": "Lễ Tết, cưới hỏi, trẩy hội.",
+    "field14": "Remix tự do",
+    "field15": "Dây wallet chain (xích quần kiểu hiphop/punk) bằng bạc/inox, gắn thêm charm theo sở thích.",
+    "field16": "Tránh nhầm với đai xích quấn quanh bụng của múa bụng. Xà tích chỉ gài hông buông thõng một bên rủ xuống đùi.",
+    "field17": "http://dsvh.gov.vn/",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK30"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Quần ống rộng",
+    "field5": "Quần lụa, quần dài tà",
+    "field6": "Phần dưới (quần, váy)",
+    "field7": "Bắt buộc",
+    "field8": "Cả nam và nữ",
+    "field9": "Lụa, phi bóng, satin, gấm",
+    "field10": "Đen, trắng (cơ bản truyền thống); ngày nay thường dùng màu ton-sur-ton hoặc tương phản với màu áo.",
+    "field11": "Mặc bên trong áo dài. Cạp quần phải được kéo cao ngang eo để che kín phần hở ra ngay điểm xẻ tà của áo dài.",
+    "field12": "Thể hiện sự kín đáo, đoan trang và tôn vinh nét e ấp của người Việt.",
+    "field13": "Mọi dịp khi mặc áo dài (lễ Tết, đi học, sự kiện, dạo phố).",
+    "field14": "Cách tân",
+    "field15": "Chân váy đụp xòe, quần jeans ôm, quần âu (chỉ áp dụng đối với áo dài cách tân tà ngắn).",
+    "field16": "Dễ nhầm với quần palazzo của phương Tây. Lưu ý cạp quần bắt buộc phải che được \"tam giác eo\" phần xẻ tà để tránh hớ hênh.",
+    "field17": "https://baotangphunu.com/b-su-tp-ao-dai-ph-n-vit-nam/",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK31"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Mấn đội đầu",
+    "field5": "Khăn đóng, khăn vấn",
+    "field6": "Phụ kiện đầu",
+    "field7": "Bắt buộc trong nghi lễ trang trọng (cưới hỏi, cúng tế); Tùy chọn trong các dịp khác.",
+    "field8": "Cả nam và nữ",
+    "field9": "Lụa, nhung, gấm bọc quanh cốt xốp hoặc cốt cứng.",
+    "field10": "Đỏ, vàng (hỷ sự); đen, xanh sẫm (lễ nghi); hoặc đồng màu với áo dài.",
+    "field11": "Đội ngay ngắn ôm sát vòng đầu, cố định cùng phần tóc được vấn hoặc búi gọn gàng phía sau.",
+    "field12": "Tượng trưng cho sự chỉnh tề, nề nếp gia phong và vẻ đẹp vương giả, uy nghi.",
+    "field13": "Đám cưới (cô dâu chú rể), lễ hội truyền thống, cúng bái, thi nhan sắc.",
+    "field14": "Cách tân",
+    "field15": "Băng đô lụa xuyệt tông, kẹp tóc ngọc trai, vương miện mini.",
+    "field16": "Dễ nhầm với mũ Kokoshnik của Nga nếu thiết kế mấn quá to và dẹt. Lưu ý đội mấn phải kết hợp búi tóc gọn, không xõa tóc lòa xòa che khuất cổ.",
+    "field17": "https://thanhnien.vn/ao-dai-khan-dong-tags954737.html",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK32"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Nón lá",
+    "field5": "Nón chóp, nón bài thơ (nếu có hình ảnh ẩn bên trong)",
+    "field6": "Phụ kiện đầu",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Lá cọ, lá nón, khung tre nứa, chỉ nilon, quai lụa.",
+    "field10": "Màu trắng ngà hoặc vàng nhạt tự nhiên của lá khô.",
+    "field11": "Đội trên đỉnh đầu, thắt quai lụa mỏng dưới cằm, hoặc cầm tay che nghiêng tạo dáng.",
+    "field12": "Biểu tượng cho vẻ đẹp lao động bình dị, sự che chở và nét duyên dáng của phụ nữ Việt Nam.",
+    "field13": "Chụp ảnh ngoại cảnh, dạo phố xuân, biểu diễn văn nghệ, đồng phục nữ sinh.",
+    "field14": "Remix tự do",
+    "field15": "Ô/dù lụa, mũ cói rộng vành (nếu phối theo concept vintage lai Âu).",
+    "field16": "Dễ nhầm với nón lá của nông dân Trung Quốc hoặc Nhật Bản. Nón lá Việt Nam có độ thon dài thanh thoát và chóp nhọn sắc nét hơn, không bị bẹt hay tù đầu.",
+    "field17": "https://vi.wikipedia.org/wiki/Nón_lá",
+    "field18": "A – Học thuật / hiện vật",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK33"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Kiềng cổ",
+    "field5": "Vòng kiềng",
+    "field6": "Trang sức",
+    "field7": "Tùy chọn",
+    "field8": "Nữ",
+    "field9": "Vàng, bạc, hợp kim mạ kim loại sáng.",
+    "field10": "Vàng kim, trắng sáng.",
+    "field11": "Đeo ôm sát vào chân cổ, nằm ngoài phần cổ áo dài đứng.",
+    "field12": "Đại diện cho sự no đủ, sung túc của phụ nữ gia đình khá giả xưa; giúp bắt sáng và làm điểm nhấn cho khuôn mặt.",
+    "field13": "Cưới hỏi (cô dâu, mẹ chồng/mẹ vợ), lễ Tết, chụp ảnh concept cô ba Sài Gòn.",
+    "field14": "Chuẩn truyền thống",
+    "field15": "Vòng cổ ngọc trai nhiều lớp, dây chuyền thanh mảnh.",
+    "field16": "Dễ nhầm với vòng cổ choker hiện đại. Lưu ý vòng kiềng phải vừa vặn với chu vi cổ, nếu quá chật sẽ làm gãy phom cổ áo dài.",
+    "field17": "https://heritagevietnamairlines.com/vong-kieng-ve-dep-sang-trong/",
+    "field18": "C – Blog / MXH / tiệm",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK34"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Guốc mộc",
+    "field5": "Đôi guốc, guốc dong",
+    "field6": "Giày dép",
+    "field7": "Tùy chọn",
+    "field8": "Cả nam và nữ",
+    "field9": "Gỗ (xoan, thông, mít), quai bằng nhựa trong, nhung hoặc lụa.",
+    "field10": "Màu gỗ mộc mạc, quai màu trong suốt, đỏ hoặc đen.",
+    "field11": "Xỏ chân trần trực tiếp vào quai, bước đi tạo tiếng lộc cộc đặc trưng.",
+    "field12": "Gắn liền với nếp sống dân dã, mộc mạc và phong thái đi đứng khoan thai của phụ nữ xưa.",
+    "field13": "Chụp ảnh nghệ thuật mang hơi hướng hoài cổ, biểu diễn sân khấu.",
+    "field14": "Cách tân",
+    "field15": "Giày cao gót bít mũi, giày búp bê, sandal quai mảnh, giày sneaker chunky (với áo dài cách tân).",
+    "field16": "Dễ nhầm với guốc Geta của Nhật Bản. Geta thường có hai răng vuông cồng kềnh dưới đế, trong khi guốc mộc Việt Nam dáng gót liền hoặc vuốt eo thanh thoát.",
+    "field17": "https://thanhnien.vn/thoi-trang-tre/guoc-moc-que-chinh-phuc-tin-do-thoi-trang-thanh-thi-185240329132248909.htm",
+    "field18": "B – Báo chí / nhóm nghiên cứu",
+    "field19": "TV02"
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK35"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK36"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK37"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK38"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK39"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK40"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK41"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK42"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK43"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK44"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK45"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK46"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK47"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK48"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK49"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK50"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK51"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK52"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK53"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK54"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK55"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK56"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK57"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK58"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK59"
+    }
+  },
+  {
+    "2": {
+      " PHỤ KIỆN & THÀNH PHẦN ĐI KÈM": "PK60"
+    }
+  }
+]

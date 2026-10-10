@@ -1,0 +1,414 @@
+[
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "Mỗi nguồn 1 mã (SRC01…). Chỉ điền cột J (Dùng cho) khi đã thực sự đọc và dùng nguồn đó – tab Tiến độ đếm theo cột này. 3 dòng đầu là nguồn GỢI Ý khởi đầu, cần tự kiểm tra lại."
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "Mã nguồn"
+    },
+    "field2": "Tên tài liệu / nguồn",
+    "field3": "Loại nguồn",
+    "field4": "Tác giả / đơn vị",
+    "field5": "Năm",
+    "field6": "NXB / nơi đăng",
+    "field7": "Link",
+    "field8": "Trang / vị trí trích",
+    "field9": "Độ tin cậy",
+    "field10": "Dùng cho trang phục (VP01; VP02…)",
+    "field11": "Nội dung chính dùng được",
+    "field12": "Người thêm",
+    "field13": "Ngày truy cập",
+    "field14": "Ghi chú"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC04"
+    },
+    "field2": "“Quốc phục” - Áo dài ngũ thân truyền thống Việt Nam",
+    "field3": "Bài báo khoa học",
+    "field4": "Võ Vinh Quang",
+    "field5": "2021",
+    "field6": "Tạp chí Sông Hương",
+    "field7": "http://tapchisonghuong.com.vn/tap-chi/c444/n29973/Quoc-phuc-Ao-dai-ngu-than-truyen-thong-Viet-Nam.html",
+    "field8": "Số 384 (Tháng 02/2021)",
+    "field9": "A – Học thuật / hiện vật",
+    "field10": "VP01",
+    "field11": "Lịch sử hình thành áo ngũ thân từ thời chúa Nguyễn Phúc Khoát, các tư liệu lịch sử quy định về y phục và quá trình phát triển của áo ngũ thân.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC05"
+    },
+    "field2": "Tiếp nhận áo Nhật Bình – Lễ phục của Hoàng hậu Nam Phương",
+    "field3": "Bảo tàng / hiện vật",
+    "field4": "Trung tâm Bảo tồn Di tích Cố đô Huế (đăng trên VTC News)",
+    "field5": "2024",
+    "field6": "Báo VTC News",
+    "field7": "https://vtcnews.vn/tiep-nhan-ao-nhat-binh-le-phuc-cua-hoang-hau-nam-phuong-ar909978.html",
+    "field8": "TOÀN BỘ",
+    "field9": "A – Học thuật / hiện vật",
+    "field10": "VP02",
+    "field11": "Phân tích chi tiết về hiện vật thật (áo của Hoàng hậu Nam Phương): chất liệu sa nam màu vàng đậm, hoa văn biểu trưng (thủy ba tam sơn, chim phượng) và quy chế lễ phục cung đình triều Nguyễn.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC06"
+    },
+    "field2": "Tri thức May, Mặc áo dài Huế là di sản văn hóa phi vật thể Quốc gia",
+    "field3": "Báo chí chính thống",
+    "field4": "Bộ Văn hóa, Thể thao và Du lịch / Tạp chí Người Hà Nội",
+    "field5": "2024",
+    "field6": "Tạp chí Người Hà Nội",
+    "field7": "https://nguoihanoi.vn/tri-thuc-may-mac-ao-dai-hue-la-di-san-van-hoa-phi-vat-the-quoc-gia-86194.html",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Các tiêu chí cấu tạo, giá trị lịch sử và tập quán sử dụng áo dài đã được nhà nước công nhận là di sản văn hóa phi vật thể quốc gia.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC07"
+    },
+    "field2": "Giữ áo dài Nhật Bình cho Huế",
+    "field3": "Báo chí chính thống",
+    "field4": "Tác giả Đồng Văn (ghi nhận ý kiến của Nhà nghiên cứu Nguyễn Xuân Hoa)",
+    "field5": "2020",
+    "field6": "Báo Thừa Thiên Huế (Cơ quan ngôn luận của Đảng bộ, chính quyền và nhân dân tỉnh Thừa Thiên Huế)",
+    "field7": "https://huengaynay.vn/van-hoa-nghe-thuat/thong-tin-van-hoa/giu-ao-dai-nhat-binh-cho-hue-84660.html",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Phân tích giá trị lịch sử, vẻ đẹp sang trọng, kiểu cách riêng của vùng đất kinh kỳ triều Nguyễn. Khẳng định áo Nhật Bình là một trong những yếu tố thể hiện sự riêng có và đậm chất Huế đối với nữ giới trong Hoàng cung.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC08"
+    },
+    "field2": "Tinh tế áo dài ngũ thân",
+    "field3": "Báo chí chính thống",
+    "field4": "Tác giả Minh Hiền (ghi nhận ý kiến của Nhà nghiên cứu Nguyễn Xuân Hoa)",
+    "field5": "2020",
+    "field6": "Báo Thừa Thiên Huế (Cơ quan ngôn luận của Đảng bộ, chính quyền và nhân dân tỉnh Thừa Thiên Huế)",
+    "field7": "https://huengaynay.vn/van-hoa-nghe-thuat/van-nghe-am-nhac/tinh-te-ao-dai-ngu-than-89627.html",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Lịch sử định hình áo ngũ thân từ thời chúa Nguyễn Phúc Khoát. Đặc biệt, nguồn này giải thích rất rõ cấu tạo và triết lý của áo: ý nghĩa tương truyền của 5 thân áo (ngũ thể) tượng trưng cho đạo lý cao đẹp của con người (Tứ thân phụ mẫu và chính bản thân người mặc), mang lại sự kín đáo, trang trọng.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC09"
+    },
+    "field2": "Nguồn gốc Áo tứ thân và ý nghĩa văn hóa trong từng vùng miền",
+    "field7": "https://trangphuchonghanh.com/nguon-goc-ao-tu-than-va-y-nghia-van-hoa-trong-tung-vung-mien-bid46.html"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC10"
+    },
+    "field2": "Bảo tàng Lịch sử quốc gia tiếp nhận áo dài ngũ thân truyền thống",
+    "field3": "Bảo tàng / hiện vật",
+    "field4": "Bảo tàng Lịch sử Quốc gia",
+    "field5": "2021",
+    "field6": "Bảo tàng Lịch sử Quốc gia",
+    "field7": "https://baotanglichsu.vn/vi/Articles/3090/72685/bao-tang-lich-su-quoc-gia-tiep-nhan-ao-dai-ngu-than-truyen-thong.html",
+    "field8": "Toàn bài",
+    "field9": "A – Học thuật / hiện vật",
+    "field10": "VP01",
+    "field11": "Hiện vật áo ngũ thân tay chẽn nam; cấu tạo 5 cúc; tay chẽn; đường tà cong; chân vạt cong hình cánh cung; kỹ thuật may thủ công; trường hợp cụ thể về lụa La Khê, lớp ngoài màu đen, lót trắng, họa tiết hồi văn, thủy ba, Ngũ Phúc",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC11"
+    },
+    "field2": "Trang phục cung đình triều Nguyễn",
+    "field3": "Bảo tàng / hiện vật",
+    "field4": "Bảo tàng Lịch sử Quốc gia",
+    "field5": "2015",
+    "field6": "Bảo tàng Lịch sử Quốc gia",
+    "field7": "https://baotanglichsu.vn/VI/Articles/3096/18303/trang-phuc-cung-djinh-trieu-nguyen.html",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Quy định trang phục cung đình Nguyễn theo giai tầng; chất liệu, màu sắc, cách may, họa tiết và số lượng y phục được quy định chặt chẽ. Rất hữu ích để xác định Nhật Bình không chỉ là áo theo màu sắc tùy ý mà gắn với quy chế phẩm cấp.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC12"
+    },
+    "field2": "Áo tấc, cổ phục quý đang hồi sinh",
+    "field3": "Báo chí chính thống",
+    "field4": "Sở Du lịch Thừa Thiên Huế",
+    "field5": "2020",
+    "field6": "Sở Du lịch Thừa Thiên Huế",
+    "field7": "https://huetourism.gov.vn/ao-tac-co-phuc-quy-dang-hoi-sinh/?pid=MjExMjB8Y3NkbGRs0&utm_source",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Phân biệt áo ngũ thân tay chẽn và áo tấc/tay thụng; áo tấc là áo ngũ thân tay rộng, dùng nhiều trong nghi lễ; cấu trúc 5 thân; tay rộng; cổ đứng; 5 cúc; cách phối với quần trắng và phụ kiện.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC13"
+    },
+    "field2": "“Áo dài Việt Nam qua các thời kỳ lịch sử” – Một triển lãm không thể bỏ qua",
+    "field3": "Báo chí chính thống",
+    "field4": "Sở Văn hóa, Thể thao và Du lịch Huế",
+    "field5": "2025",
+    "field6": "Sở VHTTDL Huế",
+    "field7": "https://svhttdl.hue.gov.vn/tin-trong-nuoc/ao-dai-viet-nam-qua-cac-thoi-ky-lich-su-mot-trien-lam-khong-the-bo-qua.html",
+    "field8": "Mục áo dài ngũ thân",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Nguồn rất tốt cho cấu trúc: ngũ thân lập lĩnh, 5 thân, cổ cao thẳng vuông, 5 cúc bố trí hình chữ “quảng”; phân biệt tay chẽn và tay thụng/áo tấc.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC14"
+    },
+    "field2": "Ảnh hưởng của áo dài ngũ thân đến thiết kế áo dài nam hiện nay",
+    "field3": "Bài báo khoa học",
+    "field4": "Nguyễn Thị Mai – Khoa Thiết kế sáng tạo, HICT",
+    "field5": "2025",
+    "field6": "Học viện Thời trang và Công nghệ Hà Nội",
+    "field7": "https://hict.edu.vn/thoi-trang/anh-huong-cua-ao-dai-ngu-than-den-thiet-ke-ao-dai-nam-hien-nay.htm",
+    "field8": "Toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Cấu trúc áo ngũ thân nam; cổ đứng; tay chẽn; phân biệt áo tấc và áo tay chẽn; sự hồi sinh và ảnh hưởng của ngũ thân đối với thiết kế hiện đại. Đặc biệt hữu ích cho phần traditional / modernized / remix.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC15"
+    },
+    "field2": "Áo Nhật Bình: Một di sản văn hóa quý của Cố đô Huế",
+    "field3": "Bài báo khoa học",
+    "field4": "Phan Thanh Hải",
+    "field5": "2020",
+    "field6": "Tạp chí Văn hóa Nghệ thuật",
+    "field7": "https://vanhoanghethuat.vn/ao-nhat-binh-mot-di-san-van-hoa-quy-cua-co-do-hue-77752065.html",
+    "field8": "toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Nguồn gốc từ Phi phong triều Minh; Nguyễn cải biến thành Phi phong đối khâm; cổ chữ nhật bản rộng; hai vạt cố định bằng dây; quy định màu sắc/chất liệu theo cấp bậc; cách phối với xiêm y hoặc quần trắng qua các giai đoạn",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC16"
+    },
+    "field2": "Hoa văn trang trí trên áo Nhật Bình của Đoan Huy Hoàng thái hậu triều Nguyễn (1802–1945)",
+    "field3": "Bài báo khoa học",
+    "field4": "Lê Thị Hà",
+    "field5": "2025",
+    "field6": "Tạp chí Văn hóa Nghệ thuật",
+    "field7": "https://vanhoanghethuat.vn/hoa-van-trang-tri-tren-ao-nhat-binh-cua-doan-huy-hoang-thai-hau-trieu-nguyen-1802-1945-77758106.html",
+    "field8": "toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Nguồn rất mạnh về hoa văn, màu sắc và hiện vật Nhật Bình cụ thể của Đoan Huy Hoàng thái hậu; 15 nhóm loại hoa văn, phượng, hạc, rùa, mẫu đơn, mai, lan, trúc, mây, hồi văn, thủy ba; màu vàng nền; quy tắc hoa văn/màu sắc gắn với cấp bậc.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC17"
+    },
+    "field2": "Di sản văn hóa và sự phục hưng trong đời sống hiện đại của áo Nhật Bình",
+    "field3": "Bài báo khoa học",
+    "field4": "Trần Ngọc Diễm Hằng",
+    "field5": "2025",
+    "field6": "Trường Đại học Sư phạm Nghệ thuật Trung ương",
+    "field7": "https://spnttw.edu.vn/dao-tao/di-san-van-hoa-va-su-phuc-hung-trong-doi-song-hien-dai-cua-ao-nhat-binh/",
+    "field8": "toàn bài",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Cấu trúc cổ Nhật Bình; nguồn gốc Phi phong; cổ chữ nhật; hai vạt đối khâm; đồng thời rất hữu ích cho phần cách tân: thu nhỏ/cắt biến đổi cổ áo, dùng chất liệu hiện đại, thêu máy, ép nổi, màu pastel và chuyển hóa thành áo, vest, đầm.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC18"
+    },
+    "field2": "Đặc điểm và giá trị thẩm mỹ, bản sắc văn hóa của trang phục áo dài",
+    "field3": "Bài báo khoa học",
+    "field4": "Nguyễn Đức Bình",
+    "field5": "2022",
+    "field6": "Tạp chí Văn hóa Nghệ thuật, số 508",
+    "field7": "https://vanhoanghethuat.vn/nhan-dien-va-phat-huy-gia-tri-ao-dai-truyen-thong-trong-boi-canh-hoi-nhap-bai-1-gia-tri-tham-m-va-ban-sac-van-hoa-cua-trang-phuc-ao-dai-77753129.html",
+    "field8": "Mục 2. Đặc điểm của áo ngũ thân",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP01",
+    "field11": "Mô tả cụ thể kết cấu 5 thân, cổ vuông đứng, tay liền vai, tay chẽn, 5 khuy, khăn quấn đầu, áo lót trắng, chất liệu lụa tơ tằm; kỹ thuật may và đặc điểm tà áo.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC19"
+    },
+    "field2": "Nhận diện và phát huy giá trị Áo dài truyền thống trong bối cảnh hội nhập – Bài 2",
+    "field3": "Bài báo khoa học",
+    "field4": "Nguyễn Đức Bình",
+    "field5": "2022",
+    "field6": "Tạp chí Văn hóa Nghệ thuật, số 511",
+    "field7": "https://vanhoanghethuat.vn/nhan-dien-va-phat-huy-gia-tri-ao-dai-truyen-thong-trong-boi-canh-hoi-nhap-bai-2-thuc-trang-may-su-dung-ao-dai-trong-giai-doan-hien-nay-77753274.html",
+    "field8": "Mục “Áo cách tân” có tiếp thu truyền thống?",
+    "field9": "B – Báo chí / nhóm nghiên cứu",
+    "field10": "VP02",
+    "field11": "Rất hữu ích cho phần traditional / modernized / remix: mô tả những biến đổi như vạt hẹp, may bó, tay ráp kiểu raglan, thay đổi đường cúc; giúp phân biệt thiết kế còn kế thừa áo ngũ thân và thiết kế đã biến đổi mạnh.",
+    "field12": "TV1"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC20"
+    },
+    "field2": "Nét đẹp văn hóa trong tà áo dài của phụ nữ Việt",
+    "field3": "Bảo tàng / hiện vật",
+    "field4": "Bảo tàng Lịch sử Quốc gia",
+    "field5": "2015",
+    "field6": "Bảo tàng Lịch sử Quốc giaBảo tàng Lịch sử Quốc gia",
+    "field7": "Nét đẹp văn hóa trong tà áo dài của phụ nữ Việt",
+    "field8": "Rải rác ở phần giữa và gần cuối của bài viết.",
+    "field9": "A – Học thuật / hiện vật",
+    "field10": "VP03",
+    "field11": "Áo tứ thân làm đại diện cho những giá trị truyền thống nền tảng. Dù thời đại có thay đổi, trang phục có hiện đại hóa đến đâu thì vẫn phải bám rễ vào những nét đẹp cốt lõi (như áo tứ thân) thì mới có sức sống bền vững trong văn hóa Việt Nam.",
+    "field12": "TV2"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC21"
+    },
+    "field2": "Áo Tứ Thân Truyền Thống, Đặc Điểm Biểu Tượng Người Phụ Nữ Kinh Bắc Xưa",
+    "field3": "Mạng xã hội / blog",
+    "field4": "Routine",
+    "field5": "2025",
+    "field6": "Routine",
+    "field7": "https://routine.vn/tin-thoi-trang/ao-tu-than-duyen-dang",
+    "field8": "Toàn bài",
+    "field9": "C – Blog / MXH / tiệm",
+    "field10": "VP03",
+    "field11": "Cấu trúc truyền thống, cách phối đồ và sự biến tấu của áo tứ thân trong dòng chảy thời trang hiện đại.",
+    "field12": "TV2"
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC22"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC23"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC24"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC25"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC26"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC27"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC28"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC29"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC30"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC31"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC32"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC33"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC34"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC35"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC36"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC37"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC38"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC39"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC40"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC41"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC42"
+    }
+  },
+  {
+    "6": {
+      " NGUỒN THAM KHẢO": "SRC43"
+    }
+  }
+]

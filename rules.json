@@ -1,0 +1,769 @@
+[
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "Dữ liệu cho vai \"Người kiểm định văn hóa\". Chỉ tiêu: ≥ 6 quy tắc / trang phục, trong đó ≥ 2 dòng loại \"Nhầm lẫn…\". Mã TP = CHUNG cho quy tắc áp dụng mọi trang phục."
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "Mã QT"
+    },
+    "field2": "Mã TP",
+    "field3": "Trang phục (tự điền)",
+    "field4": "Loại quy tắc",
+    "field5": "Tổ hợp / tình huống kích hoạt",
+    "field6": "Mức cảnh báo",
+    "field7": "Áp dụng ở mức Remix",
+    "field8": "Giải thích (vì sao)",
+    "field9": "Câu hiển thị cho người dùng (giọng Gen Z, không dạy đời)",
+    "field10": "Gợi ý thay thế",
+    "field11": "Dễ nhầm với",
+    "field12": "Mã nguồn",
+    "field13": "Độ tin cậy",
+    "field14": "Dùng làm test case?",
+    "field15": "Người điền"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "VÍ DỤ"
+    },
+    "field2": "VD – VP06",
+    "field3": "Áo dài",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Áo dài + quần short / quần ngắn",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Áo dài truyền thống mặc cùng quần dài; quần ngắn làm mất đặc trưng nhận diện (cần trích nguồn)",
+    "field9": "Combo này hơi \"lệch tông\" với áo dài đó. Thử quần suông dài cùng màu, vẫn thoải mái mà chuẩn hơn nhiều nha!",
+    "field10": "Quần suông dài / chân váy dài (mức Cách tân)",
+    "field11": "—",
+    "field12": "SRC0x",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "Tên bạn"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT01"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nhầm lẫn văn hóa nước ngoài",
+    "field5": "Áo may chiết eo nịt sát, xẻ tà cao quá hông, để lộ sườn hoặc mặc không có quần dài.",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Áo ngũ thân cốt ở sự khoan thai, giấu dáng, vạt áo xòe rộng chữ A để tôn lên nhân sinh quan đoan trang của người Việt. Bóp eo và xẻ cao làm mất hoàn toàn cấu trúc này, biến trang phục thành Sườn xám của Trung Quốc, gây phản cảm văn hóa.",
+    "field9": "Ét ô ét! Áo ngũ thân mà bó sát bóp eo thì \"biến hình\" thành Sườn xám mất rồi cậu ơi. Đặc trưng của áo ngũ thân là form suông rộng chữ A cơ, vừa thoải mái giấu bụng mỡ lại vừa sang. Nới lỏng eo xíu nha!",
+    "field10": "Thả lỏng vòng eo, may dáng suông chữ A chắp từ 5 thân vải, tà xẻ vừa phải ngang hông.",
+    "field11": "Sườn xám (Trường sam)",
+    "field12": "https://www.facebook.com/VuoncaXNLN/posts/g%C3%B3c-drama-ca%CC%86ng-cu%CC%9B%CC%A3c-%C3%A1o-d%C3%A0i-vs-su%CC%9Bo%CC%9B%CC%80n-x%C3%A1m-v%C3%A0-li%CC%A3ch-su%CC%9B%CC%89-nhie%CC%82%CC%80u-ngu%CC%9Bo%CC%9B%CC%80i-vn-va/146462500302287/",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT02"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Quy tắc ứng xử",
+    "field5": "Mặc áo nhưng phanh ngực, không cài khuy cổ (khuy lập lĩnh) khi tham gia lễ hội, nơi tôn nghiêm.",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "5 chiếc khuy trên áo ngũ thân tượng trưng cho ngũ thường (Nhân, Nghĩa, Lễ, Trí, Tín). Việc không cài khuy cổ (lập lĩnh) bị người xưa xem là thất lễ, luộm thuộm và thiếu tôn trọng không gian, người đối diện.",
+    "field9": "Mặc ngũ thân thì nhớ cài khuy cổ nha bồ tèo, khuy lập lĩnh là linh hồn của bộ đồ đó. Phanh ngực ra nhìn hơi \"dân chơi\" quá, mất điểm thanh lịch liền. Chịu khó cài xíu cho chuẩn vibe quý tộc nè!",
+    "field10": "Cài kín toàn bộ 5 khuy áo, đặc biệt chú ý phần khuy ôm sát cổ.",
+    "field11": "Áo khoác suông",
+    "field12": "https://lamia.com.vn/blog/ao-dai-ngu-than",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT03"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Nhầm lẫn văn hóa nước ngoài",
+    "field5": "Gắn thêm nơ Obi to bản ở sau lưng, hoặc thay hoa văn phượng ổ bằng họa tiết hoa anh đào/cá chép Nhật Bản.",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Áo Nhật Bình là lễ phục vương giả của phi tần triều Nguyễn mang đậm bản sắc cung đình Việt. Việc thêm thắt chi tiết đặc trưng của Kimono (Nhật Bản) làm lai căng, biến dạng trang phục lịch sử và thường vấp phải sự chỉ trích dữ dội từ cộng đồng bảo tồn văn hóa.",
+    "field9": "Mặc Nhật Bình triều Nguyễn mà chêm thêm nơ Obi hay hoa anh đào là \"bay màu\" văn hóa đó nha. Đừng râu ông nọ cắm cằm bà kia, tôn trọng nguyên bản mới là slay nhất!",
+    "field10": "Dùng dải đai tơ ngũ sắc buộc rủ phía trước ức ngực; thêu họa tiết loan ổ, phượng ổ.",
+    "field11": "Kimono",
+    "field12": "https://www.aodaicosau.com/2020/06/oi-ieu-lam-ban-ve-nhat-binh.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT04"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Mặc áo khoác Nhật Bình đối khâm nhưng bên trong mặc áo croptop, áo hai dây hở bụng gài hờ hững.",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Nhật Bình có thiết kế đối khâm (hai vạt xẻ giữa song song), do đó bắt buộc phải có áo lót ngũ thân cổ đứng bên trong để đảm bảo sự đoan trang, kín đáo tuyệt đối của bậc mẫu nghi/quý tộc. Mặc hở hang bên trong phá vỡ sự tôn nghiêm của lễ phục.",
+    "field9": "Cảnh báo nhẹ: Nhật Bình xẻ ngực sâu lắm, mặc croptop bên trong là dễ \"lộ hàng\" và sai hẳn vibe cung đình luôn á. Phải có một em áo ngũ thân lót trắng bên trong mới chuẩn quý phái nha!",
+    "field10": "Bắt buộc mặc lót một chiếc áo ngũ thân tay chẽn màu trắng/trơn gài kín cổ ở bên trong.",
+    "field12": "https://www.facebook.com/groups/2440350972853718/posts/4096201780601954/",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT05"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Gắn mác áo Nhật Bình cho nam giới mặc, hoặc nam giới mặc Nhật Bình chụp ảnh cưới truyền thống (không theo concept châm biếm/hài hước).",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Theo Khâm định Đại Nam hội điển sự lệ, Nhật Bình là quy chế trang phục DÀNH RIÊNG CHO NỮ GIỚI (Hoàng Hậu, Công chúa, Phi tần, Mệnh phụ). Nam giới hoàng tộc có quy chế trang phục riêng (Mãng bào, Áo Tấc).",
+    "field9": "Khoan chừng chừng hai giây! Nhật Bình là đồ \"độc quyền\" của các chị em Hậu phi thôi nha. Các bạn nam bận vào là thành \"Hoàng hậu\" luôn đó. Nam giới muốn ngầu thì chọn Áo Tấc hoặc Mãng Bào nè!",
+    "field10": "Nam giới đổi sang mặc Áo Tấc (áo ngũ thân tay thụng) hoặc Mãng Bào nếu muốn concept cung đình.",
+    "field11": "Áo Tấc, Mãng Bào",
+    "field12": "https://lamia.com.vn/blog/ao-dai-ngu-than",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT06"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Áo ngũ thân + quần short / quần ngắn",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Việc mặc áo ngũ thân với quần short phá vỡ hoàn toàn quy chuẩn lịch sử áo luôn đi liền quần dài chạm gót, đồng thời làm gãy đổ tỉ lệ thị giác thướt tha và rủ mềm vốn có của phom dáng trang phục. Sự kết hợp này đối nghịch hoàn toàn với triết lý kín đáo và đoan trang của cổ phục, dễ tạo nên một tổng thể kệch cỡm, cẩu thả và thiếu đi sự trang nghiêm cần thiết.",
+    "field9": "Muốn giữ vibe ngũ thân truyền thống thì đổi quần short sang quần dài sẽ hợp form hơn nha.",
+    "field10": "Quần dài ống rộng, màu sáng/trung tính",
+    "field12": "https://www.24h.com.vn/thoi-trang/nu-sinh-mac-ao-dai-cung-quan-ngan-them-1-tham-hoa-thoi-trang-c78a1017387.html",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT07"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Gọi Nhật Bình là áo ngũ thân hoặc ngược lại",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Ngũ thân là áo lập lĩnh/cổ đứng, cấu trúc 5 thân; Nhật Bình là áo đối khâm, cổ hình chữ nhật bản rộng, thuộc hệ thống trang phục cung đình Nguyễn. Hai loại có thể được mặc trong cùng một bộ nhưng không phải cùng một loại áo.",
+    "field9": "Hai bạn này cùng là Việt phục nhưng không phải cùng một áo đâu: ngũ thân cổ đứng, Nhật Bình cổ chữ nhật bản rộng.",
+    "field12": "https://vietphuc.net/tim-hieu-ve-cac-loai-viet-phuc-thong-dung-nhat-binh-ao-tac-ngu-than-tay-chen-giao-linh-vien-linh-doi-kham",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT08"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Áo 5 thân nhưng chỉ có 4 cúc, hoặc thiết kế thành cấu trúc không còn đặc điểm 5 cúc",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Tư liệu về áo ngũ thân ghi nhận cấu trúc 5 thân và 5 cúc; năm cúc còn được giải thích gắn với ngũ thường/ngũ luân.",
+    "field9": "Đã gọi là ngũ thân thì nhớ check đủ 5 thân – 5 cúc nhé",
+    "field11": "Áo tứ thân, áo dài hiện đại",
+    "field12": "https://svhttdl.hue.gov.vn/tin-trong-nuoc/ao-dai-viet-nam-qua-cac-thoi-ky-lich-su-mot-trien-lam-khong-the-bo-qua.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT09"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Ghi áo ngũ thân chỉ dành cho nam",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Trong trào lưu phục dựng cổ phục, các bạn nữ thường ưu tiên chọn diện áo Nhật Bình (lễ phục đối khâm cung đình) hoặc áo tấc (áo ngũ thân tay rộng) trong các dịp đại lễ, cưới hỏi. Trong khi đó, các bạn nam lại mặc áo ngũ thân tay chẽn (ống tay thuôn gọn) nhiều hơn để tiện di chuyển. Sự phân chia thói quen sử dụng này trên thực tế vô tình tạo ra một định kiến thị giác sai lệch rằng áo tay chẽn ngũ thân là của nam, còn Nhật Bình mới là của nữ.",
+    "field9": "Ngũ thân không phải áo nam-only đâu nha — nam nữ đều mặc được, chỉ khác vài chi tiết form.",
+    "field11": "Áo dài nam hiện đại",
+    "field12": "https://mega.vietnamplus.vn/doc-dao-ao-ngu-than-ban-sac-van-hoa-viet-5419.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT10"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Dùng tay thụng/áo tấc nhưng ghi là ngũ thân tay chẽn",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Xét về mặt cắt may truyền thống, áo Tấc (áo ngũ thân tay thụng) và áo ngũ thân tay chẽn có phần cấu trúc thân áo giống nhau đến 100%. Cả hai loại áo này đều có chung phom dáng năm mảnh vải (ngũ thân), cổ đứng (lập lĩnh) và cài năm khuy lệch sang bên phải. Điểm khác biệt duy nhất nằm ở bộ phận ống tay: một bên được nối rộng ra thành hình chữ nhật (tay thụng), một bên thuôn gọn bó dần về phía cổ tay (tay chẽn).",
+    "field9": "Tay chẽn và tay thụng là hai form khác nhau — chọn đúng tên để app không gọi nhầm áo.",
+    "field10": "Tay nhỏ/gọn → ngũ thân tay chẽn; tay rộng → áo tấc/tay thụng",
+    "field12": "https://www.facebook.com/krisnguyenillustration/posts/%C3%A1o-t%E1%BA%A5c-kh%C3%A1c-nhau-%E1%BB%9F-ph%E1%BA%A7n-tay-%C3%A1o-so-v%E1%BB%9Bi-%C3%A1o-ch%E1%BA%BDn-%C3%A1o-t%E1%BA%A5c-hay-c%C3%B2n-g%E1%BB%8Di-l%C3%A0-%C3%A1o-ng%C5%A9-th%C3%A2n-/144609990829223/",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT11"
+    },
+    "field2": "VP01",
+    "field3": "Áo ngũ thân",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Chọn Chuẩn truyền thống nhưng sử dụng logo/chữ/họa tiết hiện đại quá lớn che phần thân áo",
+    "field6": "Nhẹ",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Nguồn nghiên cứu về áo dài nhấn mạnh việc hoa văn/trang trí cần phù hợp với đặc điểm thẩm mỹ của áo; đây là cảnh báo về mức độ cách tân, không phải cấm tuyệt đối.",
+    "field9": "Muốn giữ chất truyền thống thì để họa tiết vừa phải; logo to quá dễ làm áo mất vibe cổ phục",
+    "field10": "Logo nhỏ, đặt ở vị trí kín",
+    "field12": "https://khamphahue.com.vn/Hue-24h/Chi-tiet/tid/Nhan-dien-va-phat-huy-gia-tri-Ao-dai-truyen-thong-trong-boi-canh-hoi-nhap-Bai-2-Thuc-trang-may-su-dung-Ao-dai-trong-giai-doan-hien-nay.html/pid/14567/cid/28",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT12"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Nhầm lẫn văn hóa nước ngoài",
+    "field5": "Gọi Nhật Bình là Hán phục/áo Phi Phong Trung Quốc",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Về mặt nguồn gốc xa xưa, áo Nhật Bình được khẳng định là phát triển dựa trên nguyên mẫu từ áo Phi Phong của triều Minh (Trung Quốc), một dạng thức áo khoác đối khâm (hai tà mở song song phía trước) rất phổ biến trong tủ đồ Hán phục của phụ nữ vương thất phương Bắc. Khi triều Nguyễn (Đại Việt) thiết lập điển chế trang phục vào năm 1807 thời vua Gia Long, các nhà lập pháp cung đình đã tiếp thu kết cấu hình học cơ bản của dạng áo này để xây dựng nên triều phục và thường phục cho hậu cung.",
+    "field9": "Có ảnh hưởng nguồn gốc nhưng Nhật Bình là trang phục cung đình triều Nguyễn, không phải cứ cổ chữ nhật là Hán phục.",
+    "field11": "Phi Phong, Hán phục",
+    "field12": "https://cardina.vn/blogs/kien-thuc-thoi-trang/ao-nhat-binh-la-gi?srsltid=AU7gw4Vldd48DbIQh-Zpmvuci-bzaWt5yQEkCd5WVh0dPwdZ8f6RChpo",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT13"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Áo Nhật Bình Hoàng hậu nhưng thêm dải màu ngũ hành ở tay áo theo mẫu Công chúa/cung tần",
+    "field6": "Nghiêm trọng",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Nhật Bình của Hoàng hậu không áp dụng dải màu ngũ hành ở tay áo, trong khi các loại khác có dải lục – vàng – xanh – trắng – đỏ.",
+    "field9": "Đang dựng Nhật Bình Hoàng hậu thì đừng auto thêm dải ngũ hành ở tay áo nhé.",
+    "field10": "Bỏ dải ngũ hành khi phục dựng Nhật Bình Hoàng hậu",
+    "field11": "Nhật Bình Công chúa/cung tần",
+    "field12": "https://khamphahue.com.vn/Van-hoa/Hue-Kinh-%C4%91o-ao-dai-Viet-Nam/Chi-tiet/tid/Ao-dai-Nhat-Binh.html/pid/3648/cid/129",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT14"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Dùng hoa văn phượng, rùa, hạc, mẫu đơn... tùy ý rồi gắn nhãn Chuẩn truyền thống",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Theo điển chế triều Nguyễn, hoa văn trên áo Nhật Bình được quy định khắt khe theo từng cấp bậc phẩm cấp. Tuy nhiên, nhiều nhà may hiện nay lại tự ý phối trộn họa tiết và lạm dụng nhãn mác \"Chuẩn truyền thống\" như một chiêu trò tiếp thị để thu hút khách hàng, gây hiểu lầm và làm lệch lạc giá trị di sản.",
+    "field9": "Nhật Bình nhiều hoa văn thật, nhưng không phải cứ gom hết họa tiết vào là thành bản chuẩn đâu nha.",
+    "field10": "Chọn mẫu hoa văn theo đúng hiện vật/phẩm cấp đang phục dựng",
+    "field12": "https://cotranghoangcung.com/nguon-goc-nhat-binh-va-y-nghia-nhat-binh/",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT15"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Dùng phượng + long/rồng như một bộ họa tiết tùy tiện trên mọi Nhật Bình",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Nghiên cứu hiện vật Đoan Huy Hoàng thái hậu cho thấy phượng là họa tiết chủ đạo trên Nhật Bình nữ hậu phi; hệ thống biểu tượng và màu sắc gắn với địa vị/cấp bậc. Không nên mặc định mọi Nhật Bình nữ đều có thể ghép mọi linh vật cung đình.",
+    "field9": "Nhật Bình không phải bảng sticker cung đình nha 😄 — chọn họa tiết theo mẫu và cấp bậc sẽ chuẩn hơn",
+    "field10": "Dùng bộ hoa văn đã được ghi nhận trên hiện vật cụ thể",
+    "field12": "https://vi.wikipedia.org/wiki/%C3%81o_Nh%E1%BA%ADt_b%C3%ACnh",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT16"
+    },
+    "field2": "VP02",
+    "field3": "Áo nhật bình",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Cắt Nhật Bình thành áo ngắn, chiết eo mạnh hoặc crop top",
+    "field6": "Nghiêm trọng",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Theo điển chế, áo Nhật Bình nguyên bản có phom suông rộng hình chữ T phẳng và hoàn toàn không chiết eo để giữ vẻ uy nghi cung đình. Tuy nhiên, nhiều nhà may ngày nay đã áp dụng tư duy cắt may Âu phục để bóp eo, cắt ngắn tà áo thành crop top, rồi lạm dụng nhãn mác \"Chuẩn truyền thống\" như một chiêu trò tiếp thị đánh lừa người tiêu dùng và làm sai lệch bản chất di sản.",
+    "field9": "Mặc Nhật Bình chuẩn phom chữ T suông rộng vừa uy nghi, lên hình vừa \"vibe\" hoàng tộc độc bản, chứ cắt ngắn bóp eo thành crop top là bóp luôn cả cái chất cổ phục tôn nghiêm rồi đó nha!",
+    "field10": "Mặc Nhật Bình chuẩn phom chữ T suông rộng vừa uy nghi, lên hình vừa \"vibe\" hoàng tộc độc bản, chứ cắt ngắn bóp eo thành crop top là bóp luôn cả cái chất cổ phục tôn nghiêm rồi đó nha!",
+    "field12": "https://vietphuchoangthanh.com/nhat-binh/",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có",
+    "field15": "TV1"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT17"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Nhầm lẫn văn hóa nước ngoài",
+    "field5": "Kéo vắt chéo 2 vạt áo trước đè lên nhau che kín ngực, sau đó buộc dây hoặc thắt eo dạt sang một bên hông/nách.",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Cổ áo tứ thân là cổ khoét sâu chữ V để lộ chiếc yếm lấp ló. Việc vắt chéo vạt đè kín cổ và ngực là cấu trúc kinh điển của Hán phục (Giao lĩnh Nhu quần của Trung Quốc) hoặc Kimono (Nhật Bản). Làm như vậy sẽ đánh mất hoàn toàn bản sắc Việt Nam.",
+    "field9": "Khoan, dừng khoảng chừng là 2 giây! Vắt chéo vạt áo che kín bưng ngực rồi buộc bên hông là thành Hanfu mất tiêu rồi. Tứ thân nhà mình phải buông lơi 2 vạt hoặc buộc gút hờ hững trước bụng để khoe khéo chiếc yếm đào nha",
+    "field10": "Buộc gút (thắt nút) 2 mép vạt áo lại với nhau ngay dưới bụng, hoặc thả buông lơi 2 vạt rồi quấn dải thắt lưng ngang eo để giữ lại.",
+    "field11": "Hán phục (Ruqun), Kimono, Hanbok.",
+    "field12": "https://hoanghiemvietphuc.com/so-sanh-co-phuc-viet-voi-trang-phuc-truyen-thong-cac-nuoc-dong-a/",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT18"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Mặc áo tứ thân kết hợp với quần lụa đen hoặc quần ống rộng suông dài.",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Áo tứ thân có nguồn gốc từ nông thôn Bắc Bộ và nguyên bản luôn đi liền với váy đụp thâm đen. Việc mặc quần lụa ống rộng là thói quen của phụ nữ Nam Bộ (áo bà ba) hoặc giai cấp thị dân/quý tộc mặc áo ngũ thân, áo dài.",
+    "field9": "Mix tứ thân với quần lụa đen ống rộng nhìn quen mắt đấy, nhưng hơi 'lai tạp' nha mấy bà. Quần lụa là 'best friend' của áo bà ba hoặc áo dài thôi. Tứ thân nguyên bản phải đi với váy đụp thâm đen mới chuẩn vibe girl làng Quan họ!",
+    "field10": "Đổi sang váy đụp đen, chân váy xòe chữ A màu đen, hoặc chân váy midi suông tối màu.",
+    "field11": "Áo bà ba, Áo ngũ thân.",
+    "field12": "https://www.vietnamtourism.com/vi/trang-phuc-truyen-thong-viet-nam-nam-va-nu-cam-nang-du-lich-",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT19"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Đội khăn mỏ quạ trên đầu nhưng lại để tóc dài xõa bồng bềnh ra hai bên vai hoặc sau lưng.",
+    "field6": "Nhẹ",
+    "field7": "Cách tân",
+    "field8": "Khăn mỏ quạ nguyên bản bắt buộc phải đi kèm với kỹ thuật \"vấn tóc trần\" (cuộn tóc gọn gàng vòng quanh đầu). Xõa tóc làm hỏng cấu trúc ôm sát của khăn, sai lệch tỷ lệ và làm mất đi vẻ đẹp thanh tao, tần tảo của phụ nữ xưa.",
+    "field9": "Ê chít khăn mỏ quạ mà xõa tóc bồng bềnh thì nhìn hơi 'cấn' nha. Các cụ ngày xưa toàn vấn tóc thật gọn gàng quanh đầu, cao tay lắm thì chừa lọn 'tóc đuôi gà' làm duyên thôi. Tóc xõa lòa xòa sao mà gánh lúa hay đi trẩy hội được!",
+    "field10": "Búi tóc gọn gàng đằng sau gáy hoặc tết tóc vấn quanh đầu. Nếu thích làm điệu, chỉ để thừa một lọn tóc mỏng thả bên cằm hoặc gáy.",
+    "field12": "https://ruza.vn/ao-tu-than/",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT20"
+    },
+    "field2": "CHUNG",
+    "field3": "Áp dụng chung",
+    "field4": "Quy tắc ứng xử",
+    "field5": "Mặc các loại trang phục truyền thống cách tân bằng chất liệu voan, lưới xuyên thấu, hoặc cố ý khoét cổ/phanh tà mà bên trong lại mặc nội y hiện đại (bra có gọng, viền ren, mút độn) phô bày lộ liễu.",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Bất kỳ loại cổ phục hay quốc phục nào của Việt Nam, từ Tứ thân, Ngũ thân, Nhật Bình cho đến Áo dài đều lấy hạt nhân là vẻ đẹp tinh tế, kín đáo và thanh tao. Việc dùng chất liệu quá mỏng để khoe trực diện nội y hiện đại làm đứt gãy hoàn toàn tinh thần trang nhã của trang phục, rất dễ bị đánh giá là phản cảm và bôi bác văn hóa, đặc biệt khi chụp ảnh ở các không gian di tích, nơi thờ tự.",
+    "field9": "Slay thì okay, nhưng diện Việt phục từ Tứ thân, Áo dài cho tới Nhật Bình, Ngũ thân mà mặc voan xuyên thấu lộ nguyên chiếc bra viền ren bên trong thì cờ đỏ (red flag) to đùng nha! Dẫu có cách tân 'mờ ê lem' cỡ nào thì đồ truyền thống vẫn có ranh giới của nó. Đổi sang yếm lụa, áo lá hay áo quây trơn để giữ độ thanh lịch, 10 điểm không có nhưng nè!",
+    "field10": "Đối với Tứ thân, hãy thay bằng chiếc yếm lụa hoặc áo quây trơn không viền. Đối với Áo dài, Áo ngũ thân hay Nhật Bình may bằng vải tơ mỏng, bắt buộc phải mặc thêm một lớp áo lót mỏng (áo lá/áo lót lụa màu nude hoặc trắng) tiệp màu da ở bên trong.",
+    "field12": "https://baotintuc.vn/cach-tan-trang-phuc-truyen-thong-ranh-gioi-giua-nghe-thuat-va-phan-cam-post1160303.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT21"
+    },
+    "field2": "VP04",
+    "field3": "Áo tứ thân",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Phối một màu duy nhất từ trong ra ngoài (Ví dụ: Yếm đen, áo cánh đen, tứ thân đen, thắt lưng đen).",
+    "field6": "Thông tin",
+    "field7": "Chuẩn truyền thống",
+    "field8": "\"Linh hồn\" thị giác của tứ thân là kỹ thuật phối \"mớ ba mớ bảy\" - sử dụng các mảng màu tương phản mạnh giữa yếm, áo cánh và dải thắt lưng để tạo điểm nhấn trên nền áo ngoài màu tối. Việc mặc nguyên một \"cây\" đen hoặc nâu xám sẽ làm mất cấu trúc layer và trông giống trang phục chịu tang.",
+    "field9": "Chơi hệ 'all-black' hoặc 'all-brown' trông cool ngầu thật, nhưng ốp vào áo tứ thân thì dễ bị nhầm là đồ đi đưa đám đó nha. Chìa khóa để outfit chói chang là mạnh dạn táng mấy quả yếm đào, thắt lưng xanh hồ thủy để color-block nhé!",
+    "field10": "Giữ lại áo khoác ngoài và váy đụp màu tối, nhưng đổi Yếm sang màu nổi (đỏ đào, trắng) và quấn dải thắt lưng màu tương phản (vàng mỡ gà, xanh hồ thủy)",
+    "field12": "https://routine.vn/tin-thoi-trang/ao-tu-than-duyen-dang",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Không"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT22"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Lỗi phối phổ biến",
+    "field5": "Mặc áo dài (dù là truyền thống hay cách tân) kết hợp với quần đùi bên trong hoặc không mặc quần dài/váy, để lộ da thịt từ phần xẻ tà trở xuống.",
+    "field6": "Nghiêm trọng",
+    "field7": "Mọi mức",
+    "field8": "Áo dài có đường xẻ tà rất cao (ngang eo hoặc trên cạp quần). Việc không mặc quần dài bít gót hoặc váy lót ngang bắp chân sẽ làm lộ nội y hoặc da thịt hai bên hông/chân, gây phản cảm và xúc phạm đến tính trang trọng của quốc phục.",
+    "field9": "Ét ô ét! Mặc áo dài mà quên quần dài hay diện quần short bên trong là coi chừng bị tế sống đó nha. Xẻ tà áo dài cao tới eo lận, mặc vậy hớ hênh rớt luôn điểm thanh lịch ráng chịu!",
+    "field10": "Mix cùng quần lụa ống rộng dài chấm gót. Nếu diện áo dài cách tân tà lửng, hãy đổi sang chân váy xếp ly xòe dài ngang bắp chân hoặc quần jeans ôm.",
+    "field12": "https://vnexpress.net/nhung-bo-ao-dai-pha-cach-gay-tranh-cai-3249092.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT23"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Nhầm lẫn văn hóa nước ngoài",
+    "field5": "Áo ôm sát, xẻ tà thấp (từ giữa đùi trở xuống), mặc khoe chân không quần, sử dụng nút thắt cúc Tàu, cổ xẻ giọt nước, may bằng vải gấm cứng họa tiết rồng phượng Trung Hoa.",
+    "field6": "Nghiêm trọng",
+    "field7": "Remix tự do",
+    "field8": "Sườn xám và áo dài rất hay bị nhầm lẫn với nhau. Tuy nhiên, sườn xám khoe chân (xẻ tà thấp, không quần bên trong), còn áo dài xẻ cao tới eo và bắt buộc phải có phần dưới (quần ống rộng). Việc lai tạp này làm mất đi ranh giới văn hóa trang phục Việt – Trung.",
+    "field9": "Khoan dừng khoảng chừng là 2s! Set đồ này nhìn là biết vibe Sườn xám nước bạn rồi nha, không phải Áo dài Việt Nam đâu. Áo dài real là phải xẻ tà lên tận eo và đi kèm quần dài ống rộng cơ.",
+    "field10": "Kéo cao điểm xẻ tà lên ngang eo, thay khuy Tàu bằng khuy bấm ẩn và thêm ngay một chiếc quần lụa ống suông vào để chuẩn \"hệ tư tưởng\" Áo dài.",
+    "field11": "Sườn xám (Trung Quốc), Kurti (Ấn Độ).",
+    "field12": "https://www.saigonaodai.net/su-khac-nhau-giua-ao-dai-va-suon-xam/?srsltid=AU7gw4XRckad0KPqR3119XbcNzkKtwGV8uO-hETImoMZKCKgGEBu3x36",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT24"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Nhầm lẫn giữa các loại Việt phục",
+    "field5": "Người dùng đăng ảnh/thiết kế áo ngũ thân (phom suông rộng, không chít eo, có đường ráp sống lưng, cổ thấp vát chữ V nhẹ, vạt áo rộng) nhưng lại dán nhãn là \"Áo dài truyền thống ôm body\".",
+    "field6": "Nhẹ",
+    "field7": "Mọi mức",
+    "field8": "Áo ngũ thân là tiền thân trực tiếp của áo dài, nhưng xét về hình thái học thời trang, chúng là 2 loại khác nhau. Áo ngũ thân có 5 tà, phom suông rộng để che khuyết điểm, dùng kỹ thuật ghép vải (có đường sống lưng); trong khi áo dài (từ sau thập niên 30) là áo 2 tà, chít eo ôm sát để tôn đường cong, tay raglan.",
+    "field9": "Nhìn na ná nhau nhưng 'bé' này là Áo ngũ thân - 'tiền bối' của áo dài đó nha. Phom ẻm suông rộng thoải mái chứ không chít eo ép dáng như áo dài hiện đại đâu, đừng nhầm nhó!",
+    "field10": "Hãy gọi đúng tên là \"Áo ngũ thân lập lĩnh tay chẽn\" để khoe độ am hiểu văn hóa lịch sử đỉnh chóp, hoặc nếu muốn làm mockup áo dài thì phải vẽ thêm đường chít ben eo.",
+    "field11": "Áo dài dáng xưa (áo dài phom rộng của nữ thập niên 50-60).",
+    "field12": "https://hoilhpn.org.vn/tin-chi-tiet/-/chi-tiet/lich-su-phat-trien-ao-dai-viet-nam-qua-cac-thoi-ky-35475-4512.html",
+    "field13": "B – Báo chí / nhóm nghiên cứu",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT25"
+    },
+    "field2": "VP06",
+    "field3": "Áo dài",
+    "field4": "Quy tắc ứng xử",
+    "field5": "Buộc túm hai tà áo dài phía trước lại thành cục nơ (như áo tứ thân), ngồi dạng chân (xoạc chân), hoặc nằm ườn vắt chân lên cao khi đang mặc áo dài.",
+    "field6": "Trung bình",
+    "field7": "Chuẩn truyền thống",
+    "field8": "Thiết kế 2 tà áo buông rủ dài là để tạo hiệu ứng thị giác thướt tha, bay bổng theo từng bước đi. Việc buộc tà không chỉ làm hỏng phom dáng áo mà còn đánh mất đi tính đoan trang. Tư thế tạo dáng quá hở hang bạo liệt không đi đôi với tinh thần của trang phục truyền thống.",
+    "field9": "Trời ơi đừng có cột tà áo dài lại như vậy, tà áo sinh ra là để bay bay thướt tha mà! Với lại đang diện quốc phục thì ráng rén rén tém tém lại xíu, pose dáng thanh nhã mới chuẩn bài nha.",
+    "field10": "Cứ để tà áo buông thả tự nhiên. Khi ngồi xe máy hoặc ngồi ghế, dùng tay vuốt nhẹ tà áo sau xếp gọn sang một bên hoặc trải phẳng ra nệm để tránh nhăn vải.",
+    "field12": "https://kienthuc.net.vn/nhung-cach-mac-ao-dai-chang-giong-ai-cua-nu-sinh-viet-gay-buc-boi-post601442.html",
+    "field13": "C – Blog / MXH / tiệm",
+    "field14": "Có"
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT26"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT27"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT28"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT29"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT30"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT31"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT32"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT33"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT34"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT35"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT36"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT37"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT38"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT39"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT40"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT41"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT42"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT43"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT44"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT45"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT46"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT47"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT48"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT49"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT50"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT51"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT52"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT53"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT54"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT55"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT56"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT57"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT58"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT59"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT60"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT61"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT62"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT63"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT64"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT65"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT66"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT67"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT68"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT69"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT70"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT71"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT72"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT73"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT74"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT75"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT76"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT77"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT78"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT79"
+    }
+  },
+  {
+    "5": {
+      " QUY TẮC PHỐI & CẢNH BÁO SAI LỆCH VĂN HÓA": "QT80"
+    }
+  }
+]
