@@ -1,5 +1,7 @@
+import base64
 import io
 import json
+import os
 import re
 import time
 from html import escape
@@ -17,6 +19,8 @@ from pydantic import BaseModel
 # =====================================================================
 MODEL_NAME = "gemini-3.8-flash"
 ICON_PATH = Path(__file__).with_name("non-la.svg")
+
+ICON_DATA = base64.b64encode(ICON_PATH.read_bytes()).decode("ascii") if ICON_PATH.exists() else ""
 
 st.set_page_config(
     page_title="Việt Phục Remix",
@@ -92,9 +96,20 @@ class StylingResult(BaseModel):
 # =====================================================================
 # 4. GỌI AI (có cache + retry)
 # =====================================================================
+def get_api_key():
+    """Ưu tiên Streamlit Secrets (khi deploy), nếu không có thì đọc biến môi trường (khi chạy local)."""
+    try:
+        key = st.secrets["GEMINI_API_KEY"]
+        if key:
+            return key
+    except Exception:  # không có secrets.toml hoặc thiếu key
+        pass
+    return os.environ.get("GEMINI_API_KEY")
+
+
 @st.cache_resource
 def get_client():
-    return genai.Client(api_key=st.secrets["GEMINI_API_KEY"])
+    return genai.Client(api_key=get_api_key())
 
 
 def build_config(low_thinking: bool) -> types.GenerateContentConfig:
@@ -245,6 +260,9 @@ st.markdown(
     .stApp { background-color: #FAEDCD !important; }
     h1, h2, h3 { color: #8B4513 !important; font-family: 'Times New Roman', serif; }
     h1 { text-align: center; border-bottom: 2px dashed #D4A373; padding-bottom: 10px; margin-bottom: 30px !important; }
+    .assistant-header { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px; }
+    .assistant-header img { width: 42px; height: 42px; flex-shrink: 0; }
+    .assistant-header h1 { display: inline-block; margin: 0 !important; border-bottom: 2px dashed #D4A373; padding-bottom: 10px; }
     [data-testid="stSidebar"] { background-color: #FEFAE0 !important; border-right: 2px solid #D4A373; }
     .stSelectbox>div>div, .stTextInput>div>div, .stFileUploader>div>div, .stTextArea>div>div, .stMultiSelect>div>div {
         background-color: #ffffff !important; border: 2px solid #D4A373 !important; border-radius: 8px !important;
@@ -269,11 +287,18 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("👘 Trợ lý AI: Việt Phục Remix")
+icon_img = f'<img src="data:image/svg+xml;base64,{ICON_DATA}" alt="Nón lá Việt Nam" />' if ICON_DATA else ""
+st.markdown(
+    f'<div class="assistant-header">{icon_img}<h1>Trợ lý AI: Việt Phục Remix</h1></div>',
+    unsafe_allow_html=True,
+)
 st.caption("Phối trang phục truyền thống Việt Nam theo phong cách Gen Z, vừa hiện đại vừa tôn trọng văn hóa.")
 
-if "GEMINI_API_KEY" not in st.secrets:
-    st.error("Chưa cấu hình GEMINI_API_KEY trong Streamlit Secrets.")
+if not get_api_key():
+    st.error(
+        "Chưa có GEMINI_API_KEY. Chạy local: tạo file .streamlit/secrets.toml cạnh app.py "
+        "(nội dung: GEMINI_API_KEY = \"khóa của bạn\"). Khi deploy: thêm vào mục Secrets của Streamlit Cloud."
+    )
     st.stop()
 
 # =====================================================================
